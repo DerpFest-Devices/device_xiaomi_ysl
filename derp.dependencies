@@ -1,18 +1,18 @@
 [
    {
-      "repository":"CorvusRom-Devices/vendor_xiaomi_ysl",
+      "repository":"DhruvChhura/vendor_xiaomi_ysl",
       "target_path":"vendor/xiaomi",
       "branch":"11",
       "remote":"github"
    },
    {
-      "repository":"lostark13/kernel_xiaomi_cannon",
+      "repository":"DhruvChhura/kernel_xiaomi_ysl",
       "target_path":"kernel/xiaomi/msm8953",
-      "branch":"11",
+      "branch":"eleven",
       "remote":"github"
    },
  { 
-      "repository":"lostark13/vendor_MiuiCamera",
+      "repository":"DhruvChhura/vendor_MiuiCamera",
       "target_path":"vendor/MiuiCamera",
       "branch":"11",
       "remote":"github"
