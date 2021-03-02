@@ -44,8 +44,8 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 DERP_BUILDTYPE := Official
 
 # Build fingerprint
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ1A.210205.004/7038034:user/release-keys
-BUILD_DESCRIPTION := redfin-user 11 RQ1A.210205.004 7038034 release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ2A.210305.006/7119741:user/release-keys
+BUILD_DESCRIPTION := redfin-user 11 RQ2A.210305.006/7119741 release-keys
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.build.fingerprint=$(BUILD_FINGERPRINT)
